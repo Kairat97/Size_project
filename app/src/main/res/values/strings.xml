@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Size_project</string>
+    <string name="increase">Увеличить</string>
+    <string name="decrease">Уменьшить</string>
+</resources>
